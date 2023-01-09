@@ -4,6 +4,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Flexbox</title>
+    <style>
+      .container {
+        border: 4px dotted purple;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .box {
+        height: 100px;
+        width: 100px;
+        border: 1px dashed red;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <div class="container">
+      <div class="box">Box 1</div>
+      <div class="box">Box 2</div>
+      <div class="box">Box 3</div>
+    </div>
+  </body>
 </html>
