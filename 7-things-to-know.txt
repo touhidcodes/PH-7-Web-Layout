@@ -1,9 +1,9 @@
-For responsive 7 rule should be maintained:
+7 Things to Make Website Responsive
 
-1. Viewport Meta Tag (Default)
-2. CSS Relative Unit (em , rem , % , vw)
-3. Responsive Image (Fluid Image, width: 100%)
-4. Body max-width and margin: auto
-5. Responsive Split Screen Using Flexbox (Duo line)
-6. Grid Responsive (Multi line)
-7. Responsive Menu (Bootstrap, Javascript)
+1. Use Viewport Meta Tag (Default)
+2.  CSS Relative Measuring Unit (`em, rem, %, vw`)
+3. Make Image Fluid (use `width: 100%`)
+4. Body `max-width` and `margin: auto`
+5. Two Column Using Flex Layout and Media Query
+6. Multi Column Using Grid Layout and Media Query
+7. Responsive Menu (Bootstrap, Java Script)
